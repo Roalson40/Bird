@@ -1,6 +1,6 @@
 # Bird
 
-YouToBe: https://www.youtube.com/watch?v=uCs0mAVmgxQ
+YouTobe: https://www.youtube.com/watch?v=uCs0mAVmgxQ
 
 WebGL: https://roalson40.github.io/Bird/
 
